@@ -10,7 +10,8 @@ export default {
     DATABASE_PASSWORD: process.env.DATABASE_PASSWORD,
     DATABASE_TYPE: process.env.DATABASE_TYPE,
     MAIL_HOST: process.env.MAIL_HOST,
+    MAIL_PORT: process.env.MAIL_PORT,
     MAIL_USER: process.env.MAIL_USER,
     MAIL_PASSWORD: process.env.MAIL_PASSWORD,
-    MAIL_FROM: process.env.MAIL_FROM,
+    MAIL_FROM: process.env.MAIL_FROM
 }
